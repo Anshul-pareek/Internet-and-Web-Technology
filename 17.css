@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(34, 114, 117);
+}
+
+.container{
+    color: rgb(7, 9, 11);
+}
+
+header{
+    background-color: rgb(34, 204, 204);
+    border: 10px;
+    border-style: groove;
+    border-radius: 15px;
+
+}
+
+p{
+    font-size: 50px;
+    text-align: center;
+}
+
+.para1{
+    
+    width: 683px;
+    float: right;
+    background-color: black;
+    color: antiquewhite;
+    font-size: 40px;
+    border: 5px;
+    border-style: groove;
+    border-radius: 15px;
+
+}
+
+.para2{
+    width: 683px;
+    float: left;
+    background-color: rgb(86, 78, 206);
+    color: rgb(10, 9, 9);
+    font-size: 40px;
+    border: 5px;
+    border-style: groove;
+    border-radius: 15px;
+}
